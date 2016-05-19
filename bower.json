@@ -1,5 +1,5 @@
 {
-  "name": "StatSchedule",
+  "name": "stat-schedule",
   "description": "statistical maping of best work days.",
   "version": "0.0.0",
   "private": true,
